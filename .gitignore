@@ -110,3 +110,4 @@ xcuserdata/
 .metro-health-check*
 /.vs
 *.csproj.user
+/Promiler/.vs
