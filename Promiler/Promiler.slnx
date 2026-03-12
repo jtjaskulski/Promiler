@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../Promiler.Api/Promiler.Api.csproj" Id="c716752e-82e2-43bd-ba85-190e2af9e372" />
+  <Project Path="../Promiler.Data/Promiler.Data.csproj" Id="8e06c62e-a85c-4e30-81e8-0e6eb99db439" />
   <Project Path="Promiler.csproj" />
 </Solution>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b30140a2-ef4a-413e-93b5-ddc73b06c7f9" name="Changes" comment="init rn">
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/Controllers/WeatherForecastController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/Promiler.Api.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/Promiler.Api.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/WeatherForecast.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler.Api/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler/.vs/Promiler/CopilotIndices/18.3.511.5503/CodeChunks.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler/.vs/Promiler/CopilotIndices/18.3.511.5503/CodeChunks.db-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler/.vs/Promiler/CopilotIndices/18.3.511.5503/CodeChunks.db-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler/.vs/Promiler/CopilotIndices/18.3.511.5503/SemanticSymbols.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler/.vs/Promiler/CopilotIndices/18.3.511.5503/SemanticSymbols.db-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Promiler/.vs/Promiler/CopilotIndices/18.3.511.5503/SemanticSymbols.db-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/.bundle/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/__tests__/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/java/com/promilermobile/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/java/com/promilermobile/MainApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/.xcode.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile.xcodeproj/xcshareddata/xcschemes/PromilerMobile.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/ios/PromilerMobile/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromilerMobile/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/git/Promiler" value="3AqyeqQrr7ggXIkGJXiu5wMW6BK" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1322" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jtjaskulski"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jtjaskulski/Promiler.git",
+    "accountId": "fefa5532-f8a1-41ab-b084-35c0793196e9"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3AqyeqQrr7ggXIkGJXiu5wMW6BK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b30140a2-ef4a-413e-93b5-ddc73b06c7f9" name="Changes" comment="" />
+      <created>1773334492604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773334492604</updated>
+      <workItem from="1773334496831" duration="983000" />
+    </task>
+    <task id="LOCAL-00001" summary="added gitignore and clean-project.sh">
+      <option name="closed" value="true" />
+      <created>1773335144964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335144964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="added gitignore and clean-project.sh" />
+    <MESSAGE value="init rn" />
+    <option name="LAST_COMMIT_MESSAGE" value="init rn" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
